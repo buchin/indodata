@@ -1,0 +1,4201 @@
+[
+    {
+        "id": 20, 
+        "shortname": "ACE", 
+        "name": "Aceh", 
+        "districts": [
+            {
+                "id": 1, 
+                "name": "Kab. Aceh Barat", 
+                "type": "Kab", 
+                "latitude": 4.4542745, 
+                "longitude": 96.1526985, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 2, 
+                "name": "Kab. Aceh Barat Daya", 
+                "type": "Kab", 
+                "latitude": 3.7963426, 
+                "longitude": 97.0068393, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 3, 
+                "name": "Kab. Aceh Besar", 
+                "type": "Kab", 
+                "latitude": 5.4529168, 
+                "longitude": 95.4777811, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 4, 
+                "name": "Kab. Aceh Jaya", 
+                "type": "Kab", 
+                "latitude": 4.7873684, 
+                "longitude": 95.6457951, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 5, 
+                "name": "Kab. Aceh Selatan", 
+                "type": "KAB", 
+                "latitude": 3.3115056, 
+                "longitude": 97.3516558, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 6, 
+                "name": "Kab. Aceh Singkil", 
+                "type": "KAB", 
+                "latitude": 2.3589459, 
+                "longitude": 97.87216, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 7, 
+                "name": "Kab. Aceh Tamiang", 
+                "type": "KAB", 
+                "latitude": 4.2328871, 
+                "longitude": 98.0028892, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 8, 
+                "name": "Kab. Aceh Tengah", 
+                "type": "KAB", 
+                "latitude": 4.4482641, 
+                "longitude": 96.8350999, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 9, 
+                "name": "Kab. Aceh Tenggara", 
+                "type": "KAB", 
+                "latitude": 3.3088666, 
+                "longitude": 97.6982272, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 10, 
+                "name": "Kab. Aceh Timur", 
+                "type": "KAB", 
+                "latitude": 4.5224111, 
+                "longitude": 97.6114217, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 11, 
+                "name": "Kab. Aceh Utara", 
+                "type": "KAB", 
+                "latitude": 4.9786331, 
+                "longitude": 97.2221421, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 12, 
+                "name": "Kab. Bener Meriah", 
+                "type": "KAB", 
+                "latitude": 4.7748348, 
+                "longitude": 97.0068393, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 13, 
+                "name": "Kab. Bireuen", 
+                "type": "KAB", 
+                "latitude": 5.19527833333333, 
+                "longitude": 96.665, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 14, 
+                "name": "Kab. Gayo Lues", 
+                "type": "KAB", 
+                "latitude": 3.955165, 
+                "longitude": 97.3516558, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 15, 
+                "name": "Kab. Nagan Raya", 
+                "type": "KAB", 
+                "latitude": 4.1248406, 
+                "longitude": 96.4929797, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 16, 
+                "name": "Kab. Pidie", 
+                "type": "KAB", 
+                "latitude": 5.3704132, 
+                "longitude": 95.9356872, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 17, 
+                "name": "Kab. Pidie Jaya", 
+                "type": "KAB", 
+                "latitude": 5.1548063, 
+                "longitude": 96.195132, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 18, 
+                "name": "Kab. Simeulue", 
+                "type": "KAB", 
+                "latitude": 2.6439724, 
+                "longitude": 96.0255738, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 19, 
+                "name": "Kota Banda Aceh", 
+                "type": "KOTA", 
+                "latitude": 5.31666666666667, 
+                "longitude": 95.35, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 20, 
+                "name": "Kota Langsa", 
+                "type": "KOTA", 
+                "latitude": 4.43333333333333, 
+                "longitude": 97.9666666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 21, 
+                "name": "Kota Lhokseumawe", 
+                "type": "KOTA", 
+                "latitude": 5.1880556, 
+                "longitude": 97.1402778, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 22, 
+                "name": "Kota Sabang", 
+                "type": "KOTA", 
+                "latitude": 5.88333333333333, 
+                "longitude": 95.3333333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 23, 
+                "name": "Kota Subulussalam", 
+                "type": "KOTA", 
+                "latitude": 2.6449927, 
+                "longitude": 98.0165205, 
+                "timezone": "Asia/Jakarta"
+            }
+        ]
+    }, 
+    {
+        "id": 1, 
+        "shortname": "BLI", 
+        "name": "Bali", 
+        "districts": [
+            {
+                "id": 270, 
+                "name": "Kab. Badung", 
+                "type": "KAB", 
+                "latitude": -8.5819296, 
+                "longitude": 115.1770586, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 271, 
+                "name": "Kab. Bangli", 
+                "type": "KAB", 
+                "latitude": -8.45, 
+                "longitude": 115.35, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 272, 
+                "name": "Kab. Buleleng", 
+                "type": "KAB", 
+                "latitude": -8.113831, 
+                "longitude": 115.126999, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 273, 
+                "name": "Kab. Gianyar", 
+                "type": "KAB", 
+                "latitude": -8.53333333333333, 
+                "longitude": 115.333333333333, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 274, 
+                "name": "Kab. Jembrana", 
+                "type": "KAB", 
+                "latitude": -8.361852, 
+                "longitude": 114.6418, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 275, 
+                "name": "Kab. Karangasem", 
+                "type": "KAB", 
+                "latitude": -8.4296902, 
+                "longitude": 115.6273131, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 276, 
+                "name": "Kab. Klungkung", 
+                "type": "KAB", 
+                "latitude": -8.5389222, 
+                "longitude": 115.4045111, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 277, 
+                "name": "Kab. Tabanan", 
+                "type": "KAB", 
+                "latitude": -8.53333333333333, 
+                "longitude": 115.133333333333, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 278, 
+                "name": "Kota Denpasar", 
+                "type": "KOTA", 
+                "latitude": -8.65, 
+                "longitude": 115.216666666667, 
+                "timezone": "Asia/Makassar"
+            }
+        ]
+    }, 
+    {
+        "id": 2, 
+        "shortname": "BTN", 
+        "name": "Banten", 
+        "districts": [
+            {
+                "id": 154, 
+                "name": "Kab. Lebak", 
+                "type": "KAB", 
+                "latitude": -6.5643956, 
+                "longitude": 106.2522143, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 155, 
+                "name": "Kab. Pandeglang", 
+                "type": "KAB", 
+                "latitude": -6.41666666666667, 
+                "longitude": 106.083333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 153, 
+                "name": "Kab. Serang", 
+                "type": "KAB", 
+                "latitude": -6.13333333333333, 
+                "longitude": 106.166666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 152, 
+                "name": "Kab. Tangerang", 
+                "type": "KAB", 
+                "latitude": -6.18333333333333, 
+                "longitude": 106.633333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 158, 
+                "name": "Kota Cilegon", 
+                "type": "KOTA", 
+                "latitude": -6.01666666666667, 
+                "longitude": 106.05, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 157, 
+                "name": "Kota Serang", 
+                "type": "KOTA", 
+                "latitude": -6.13333333333333, 
+                "longitude": 106.166666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 156, 
+                "name": "Kota Tangerang", 
+                "type": "KOTA", 
+                "latitude": -6.18333333333333, 
+                "longitude": 106.633333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 159, 
+                "name": "Kota Tangerang Selatan", 
+                "type": "KOTA", 
+                "latitude": -6.2888889, 
+                "longitude": 106.7180556, 
+                "timezone": "Asia/Jakarta"
+            }
+        ]
+    }, 
+    {
+        "id": 3, 
+        "shortname": "BKL", 
+        "name": "Bengkulu", 
+        "districts": [
+            {
+                "id": 57, 
+                "name": "Kab. Bengkulu Selatan", 
+                "type": "KAB", 
+                "latitude": -4.3248409, 
+                "longitude": 103.035694, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 58, 
+                "name": "Kab. Bengkulu Tengah", 
+                "type": "KAB", 
+                "latitude": -3.7920671, 
+                "longitude": 102.2619957, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 59, 
+                "name": "Kab. Bengkulu Utara", 
+                "type": "KAB", 
+                "latitude": -3.4219555, 
+                "longitude": 102.1632718, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 60, 
+                "name": "Kab. Kaur", 
+                "type": "KAB", 
+                "latitude": -4.6792278, 
+                "longitude": 103.4511768, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 61, 
+                "name": "Kab. Kepahiang", 
+                "type": "KAB", 
+                "latitude": -3.651431, 
+                "longitude": 102.578201, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 62, 
+                "name": "Kab. Lebong", 
+                "type": "KAB", 
+                "latitude": -2.992617, 
+                "longitude": 104.382202, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 63, 
+                "name": "Kab. Mukomuko", 
+                "type": "KAB", 
+                "latitude": -2.5760003, 
+                "longitude": 101.1169805, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 64, 
+                "name": "Kab. Rejang Lebong", 
+                "type": "KAB", 
+                "latitude": -3.4548154, 
+                "longitude": 102.6675575, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 65, 
+                "name": "Kab. Seluma", 
+                "type": "KAB", 
+                "latitude": -4.0622929, 
+                "longitude": 102.5642261, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 66, 
+                "name": "Kota Bengkulu", 
+                "type": "KOTA", 
+                "latitude": -3.81666666666667, 
+                "longitude": 102.316666666667, 
+                "timezone": "Asia/Jakarta"
+            }
+        ]
+    }, 
+    {
+        "id": 6, 
+        "shortname": "GOR", 
+        "name": "Gorontalo", 
+        "districts": [
+            {
+                "id": 365, 
+                "name": "Kab. Boalemo", 
+                "type": "KAB", 
+                "latitude": 0.7013419, 
+                "longitude": 122.2653887, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 366, 
+                "name": "Kab. Bone Bolango", 
+                "type": "KAB", 
+                "latitude": 0.5657885, 
+                "longitude": 123.3486147, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 367, 
+                "name": "Kab. Gorontalo", 
+                "type": "KAB", 
+                "latitude": 0.533333333333333, 
+                "longitude": 123.066666666667, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 368, 
+                "name": "Kab. Gorontalo Utara", 
+                "type": "KAB", 
+                "latitude": 0.9252647, 
+                "longitude": 122.4920088, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 369, 
+                "name": "Kab. Pohuwato", 
+                "type": "KAB", 
+                "latitude": 0.7055278, 
+                "longitude": 121.7195459, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 370, 
+                "name": "Kota Gorontalo", 
+                "type": "KOTA", 
+                "latitude": 0.533333333333333, 
+                "longitude": 123.066666666667, 
+                "timezone": "Asia/Makassar"
+            }
+        ]
+    }, 
+    {
+        "id": 5, 
+        "shortname": "JKT", 
+        "name": "Jakarta", 
+        "districts": [
+            {
+                "id": 186, 
+                "name": "Kab. Administrasi Kepulauan Seribu", 
+                "type": "KAB", 
+                "latitude": -5.7985266, 
+                "longitude": 106.5071982, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 187, 
+                "name": "Kota Administrasi Jakarta Barat", 
+                "type": "KOTA", 
+                "latitude": -6.1683295, 
+                "longitude": 106.7588494, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 188, 
+                "name": "Kota Administrasi Jakarta Pusat", 
+                "type": "KOTA", 
+                "latitude": -6.1864674, 
+                "longitude": 106.829637, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 189, 
+                "name": "Kota Administrasi Jakarta Selatan", 
+                "type": "KOTA", 
+                "latitude": -6.2689913, 
+                "longitude": 106.8060388, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 190, 
+                "name": "Kota Administrasi Jakarta Timur", 
+                "type": "KOTA", 
+                "latitude": -6.2454473, 
+                "longitude": 106.9004472, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 191, 
+                "name": "Kota Administrasi Jakarta Utara", 
+                "type": "KOTA", 
+                "latitude": -6.1214349, 
+                "longitude": 106.7741231, 
+                "timezone": "Asia/Jakarta"
+            }
+        ]
+    }, 
+    {
+        "id": 7, 
+        "shortname": "JMB", 
+        "name": "Jambi", 
+        "districts": [
+            {
+                "id": 67, 
+                "name": "Kab. Batanghari", 
+                "type": "KAB", 
+                "latitude": -5.1515845, 
+                "longitude": 105.3716684, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 68, 
+                "name": "Kab. Bungo", 
+                "type": "KAB", 
+                "latitude": -1.46666666666667, 
+                "longitude": 102.866666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 69, 
+                "name": "Kab. Kerinci", 
+                "type": "KAB", 
+                "latitude": -1.697, 
+                "longitude": 101.264, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 70, 
+                "name": "Kab. Merangin", 
+                "type": "KAB", 
+                "latitude": -2.1752789, 
+                "longitude": 101.9804613, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 71, 
+                "name": "Kab. Muaro Jambi", 
+                "type": "KAB", 
+                "latitude": -1.596672, 
+                "longitude": 103.615799, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 72, 
+                "name": "Kab. Sarolangun", 
+                "type": "KAB", 
+                "latitude": -2.3230422, 
+                "longitude": 102.7135121, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 73, 
+                "name": "Kab. Tanjung Jabung Barat", 
+                "type": "KAB", 
+                "latitude": -1.2332122, 
+                "longitude": 103.7984428, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 74, 
+                "name": "Kab. Tanjung Jabung Timur", 
+                "type": "KAB", 
+                "latitude": -1.3291599, 
+                "longitude": 103.89973, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 75, 
+                "name": "Kab. Tebo", 
+                "type": "KAB", 
+                "latitude": -1.2592999, 
+                "longitude": 102.3463875, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 76, 
+                "name": "Kota Jambi", 
+                "type": "KOTA", 
+                "latitude": -1.61666666666667, 
+                "longitude": 103.566666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 77, 
+                "name": "Kota Sungai Penuh", 
+                "type": "KOTA", 
+                "latitude": -2.08333333333333, 
+                "longitude": 101.383333333333, 
+                "timezone": "Asia/Jakarta"
+            }
+        ]
+    }, 
+    {
+        "id": 8, 
+        "shortname": "JBR", 
+        "name": "Jawa Barat", 
+        "districts": [
+            {
+                "id": 160, 
+                "name": "Kab. Bandung", 
+                "type": "KAB", 
+                "latitude": -7.025867, 
+                "longitude": 107.516899, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 161, 
+                "name": "Kab. Bandung Barat", 
+                "type": "KAB", 
+                "latitude": -6.8652214, 
+                "longitude": 107.4919767, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 162, 
+                "name": "Kab. Bekasi", 
+                "type": "KAB", 
+                "latitude": -6.3639378, 
+                "longitude": 107.1779936, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 163, 
+                "name": "Kab. Bogor", 
+                "type": "KAB", 
+                "latitude": -6.4976415, 
+                "longitude": 106.828222, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 164, 
+                "name": "Kab. Ciamis", 
+                "type": "KAB", 
+                "latitude": -7.33333333333333, 
+                "longitude": 108.35, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 165, 
+                "name": "Kab. Cianjur", 
+                "type": "KAB", 
+                "latitude": -6.81666666666667, 
+                "longitude": 107.133333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 166, 
+                "name": "Kab. Cirebon", 
+                "type": "KAB", 
+                "latitude": -6.73333333333333, 
+                "longitude": 108.5, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 167, 
+                "name": "Kab. Garut", 
+                "type": "KAB", 
+                "latitude": -7.23333333333333, 
+                "longitude": 107.883333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 168, 
+                "name": "Kab. Indramayu", 
+                "type": "KAB", 
+                "latitude": -6.33333333333333, 
+                "longitude": 108.316666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 169, 
+                "name": "Kab. Karawang", 
+                "type": "KAB", 
+                "latitude": -6.5, 
+                "longitude": 107.25, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 170, 
+                "name": "Kab. Kuningan", 
+                "type": "KAB", 
+                "latitude": -6.98333333333333, 
+                "longitude": 108.483333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 171, 
+                "name": "Kab. Majalengka", 
+                "type": "KAB", 
+                "latitude": -6.83333333333333, 
+                "longitude": 108.216666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 172, 
+                "name": "Kab. Purwakarta", 
+                "type": "KAB", 
+                "latitude": -6.58333333333333, 
+                "longitude": 107.483333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 173, 
+                "name": "Kab. Subang", 
+                "type": "KAB", 
+                "latitude": -6.58333333333333, 
+                "longitude": 107.783333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 174, 
+                "name": "Kab. Sukabumi", 
+                "type": "KAB", 
+                "latitude": -6.93333333333333, 
+                "longitude": 106.833333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 175, 
+                "name": "Kab. Sumedang", 
+                "type": "KAB", 
+                "latitude": -6.86666666666667, 
+                "longitude": 107.916666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 176, 
+                "name": "Kab. Tasikmalaya", 
+                "type": "KAB", 
+                "latitude": -7.33333333333333, 
+                "longitude": 108.233333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 177, 
+                "name": "Kota Bandung", 
+                "type": "KOTA", 
+                "latitude": -6.91666666666667, 
+                "longitude": 107.6, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 178, 
+                "name": "Kota Banjar", 
+                "type": "KOTA", 
+                "latitude": -7.3666667, 
+                "longitude": 108.5333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 179, 
+                "name": "Kota Bekasi", 
+                "type": "KOTA", 
+                "latitude": -6.2417362, 
+                "longitude": 106.9928178, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 180, 
+                "name": "Kota Bogor", 
+                "type": "KOTA", 
+                "latitude": -6.6, 
+                "longitude": 106.8, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 181, 
+                "name": "Kota Cimahi", 
+                "type": "KOTA", 
+                "latitude": -6.86666666666667, 
+                "longitude": 107.55, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 182, 
+                "name": "Kota Cirebon", 
+                "type": "KOTA", 
+                "latitude": -6.73333333333333, 
+                "longitude": 108.5, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 183, 
+                "name": "Kota Depok", 
+                "type": "KOTA", 
+                "latitude": -6.4, 
+                "longitude": 106.816666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 184, 
+                "name": "Kota Sukabumi", 
+                "type": "KOTA", 
+                "latitude": -6.93333333333333, 
+                "longitude": 106.833333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 185, 
+                "name": "Kota Tasikmalaya", 
+                "type": "KOTA", 
+                "latitude": -7.33333333333333, 
+                "longitude": 108.233333333333, 
+                "timezone": "Asia/Jakarta"
+            }
+        ]
+    }, 
+    {
+        "id": 9, 
+        "shortname": "JTG", 
+        "name": "Jawa Tengah", 
+        "districts": [
+            {
+                "id": 192, 
+                "name": "Kab. Banjarnegara", 
+                "type": "KAB", 
+                "latitude": -7.4, 
+                "longitude": 109.7, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 193, 
+                "name": "Kab. Banyumas", 
+                "type": "KAB", 
+                "latitude": -7.4832133, 
+                "longitude": 109.140438, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 194, 
+                "name": "Kab. Batang", 
+                "type": "KAB", 
+                "latitude": -6.91666666666667, 
+                "longitude": 109.75, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 195, 
+                "name": "Kab. Blora", 
+                "type": "KAB", 
+                "latitude": -6.96666666666667, 
+                "longitude": 111.416666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 196, 
+                "name": "Kab. Boyolali", 
+                "type": "KAB", 
+                "latitude": -7.53333333333333, 
+                "longitude": 110.583333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 197, 
+                "name": "Kab. Brebes", 
+                "type": "KAB", 
+                "latitude": -6.86666666666667, 
+                "longitude": 109.05, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 198, 
+                "name": "Kab. Cilacap", 
+                "type": "KAB", 
+                "latitude": -7.73333333333333, 
+                "longitude": 109.0, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 199, 
+                "name": "Kab. Demak", 
+                "type": "KAB", 
+                "latitude": -6.88333333333333, 
+                "longitude": 110.666666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 200, 
+                "name": "Kab. Grobogan", 
+                "type": "KAB", 
+                "latitude": -7.11666666666667, 
+                "longitude": 110.916666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 201, 
+                "name": "Kab. Jepara", 
+                "type": "KAB", 
+                "latitude": -6.6, 
+                "longitude": 110.666666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 202, 
+                "name": "Kab. Karanganyar", 
+                "type": "KAB", 
+                "latitude": -7.63333333333333, 
+                "longitude": 109.616666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 203, 
+                "name": "Kab. Kebumen", 
+                "type": "KAB", 
+                "latitude": -7.66666666666667, 
+                "longitude": 109.666666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 204, 
+                "name": "Kab. Kendal", 
+                "type": "KAB", 
+                "latitude": -6.93333333333333, 
+                "longitude": 110.233333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 205, 
+                "name": "Kab. Klaten", 
+                "type": "KAB", 
+                "latitude": -7.7, 
+                "longitude": 110.6, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 206, 
+                "name": "Kab. Kudus", 
+                "type": "KAB", 
+                "latitude": -6.8, 
+                "longitude": 110.85, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 207, 
+                "name": "Kab. Magelang", 
+                "type": "KAB", 
+                "latitude": -7.46666666666667, 
+                "longitude": 110.216666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 208, 
+                "name": "Kab. Pati", 
+                "type": "KAB", 
+                "latitude": -6.75, 
+                "longitude": 111.016666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 209, 
+                "name": "Kab. Pekalongan", 
+                "type": "KAB", 
+                "latitude": -6.9, 
+                "longitude": 109.666666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 210, 
+                "name": "Kab. Pemalang", 
+                "type": "KAB", 
+                "latitude": -6.9, 
+                "longitude": 109.366666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 211, 
+                "name": "Kab. Purbalingga", 
+                "type": "KAB", 
+                "latitude": -7.38333333333333, 
+                "longitude": 109.366666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 212, 
+                "name": "Kab. Purworejo", 
+                "type": "KAB", 
+                "latitude": -7.71666666666667, 
+                "longitude": 110.016666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 213, 
+                "name": "Kab. Rembang", 
+                "type": "KAB", 
+                "latitude": -6.71027666666667, 
+                "longitude": 111.337221666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 214, 
+                "name": "Kab. Semarang", 
+                "type": "KAB", 
+                "latitude": -6.96666666666667, 
+                "longitude": 110.483333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 215, 
+                "name": "Kab. Sragen", 
+                "type": "KAB", 
+                "latitude": -7.43333333333333, 
+                "longitude": 111.016666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 216, 
+                "name": "Kab. Sukoharjo", 
+                "type": "KAB", 
+                "latitude": -7.66666666666667, 
+                "longitude": 110.833333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 217, 
+                "name": "Kab. Tegal", 
+                "type": "KAB", 
+                "latitude": -6.86666666666667, 
+                "longitude": 109.15, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 218, 
+                "name": "Kab. Temanggung", 
+                "type": "KAB", 
+                "latitude": -7.31666666666667, 
+                "longitude": 110.2, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 219, 
+                "name": "Kab. Wonogiri", 
+                "type": "KAB", 
+                "latitude": -7.81666666666667, 
+                "longitude": 110.916666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 220, 
+                "name": "Kab. Wonosobo", 
+                "type": "KAB", 
+                "latitude": -7.36666666666667, 
+                "longitude": 109.9, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 221, 
+                "name": "Kota Magelang", 
+                "type": "KOTA", 
+                "latitude": -7.46666666666667, 
+                "longitude": 110.216666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 222, 
+                "name": "Kota Pekalongan", 
+                "type": "KOTA", 
+                "latitude": -6.9, 
+                "longitude": 109.666666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 223, 
+                "name": "Kota Salatiga", 
+                "type": "KOTA", 
+                "latitude": -7.31666666666667, 
+                "longitude": 110.5, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 224, 
+                "name": "Kota Semarang", 
+                "type": "KOTA", 
+                "latitude": -6.96666666666667, 
+                "longitude": 110.483333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 225, 
+                "name": "Kota Surakarta", 
+                "type": "KOTA", 
+                "latitude": -7.53333333333333, 
+                "longitude": 110.833333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 226, 
+                "name": "Kota Tegal", 
+                "type": "KOTA", 
+                "latitude": -6.86666666666667, 
+                "longitude": 109.15, 
+                "timezone": "Asia/Jakarta"
+            }
+        ]
+    }, 
+    {
+        "id": 10, 
+        "shortname": "JTM", 
+        "name": "Jawa Timur", 
+        "districts": [
+            {
+                "id": 227, 
+                "name": "Kab. Bangkalan", 
+                "type": "KAB", 
+                "latitude": -7.03333333333333, 
+                "longitude": 112.766666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 228, 
+                "name": "Kab. Banyuwangi", 
+                "type": "KAB", 
+                "latitude": -8.2, 
+                "longitude": 114.366666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 229, 
+                "name": "Kab. Blitar", 
+                "type": "KAB", 
+                "latitude": -8.1, 
+                "longitude": 112.166666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 230, 
+                "name": "Kab. Bojonegoro", 
+                "type": "KAB", 
+                "latitude": -7.15, 
+                "longitude": 111.883333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 231, 
+                "name": "Kab. Bondowoso", 
+                "type": "KAB", 
+                "latitude": -7.91666666666667, 
+                "longitude": 113.816666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 232, 
+                "name": "Kab. Gresik", 
+                "type": "KAB", 
+                "latitude": -7.21666666666667, 
+                "longitude": 112.633333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 233, 
+                "name": "Kab. Jember", 
+                "type": "KAB", 
+                "latitude": -8.16666666666667, 
+                "longitude": 113.683333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 234, 
+                "name": "Kab. Jombang", 
+                "type": "KAB", 
+                "latitude": -7.55, 
+                "longitude": 112.233333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 235, 
+                "name": "Kab. Kediri", 
+                "type": "KAB", 
+                "latitude": -7.81666666666667, 
+                "longitude": 112.016666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 236, 
+                "name": "Kab. Lamongan", 
+                "type": "KAB", 
+                "latitude": -7.11666666666667, 
+                "longitude": 112.416666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 237, 
+                "name": "Kab. Lumajang", 
+                "type": "KAB", 
+                "latitude": -8.13333333333333, 
+                "longitude": 113.216666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 238, 
+                "name": "Kab. Madiun", 
+                "type": "KAB", 
+                "latitude": -7.63333333333333, 
+                "longitude": 111.516666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 239, 
+                "name": "Kab. Magetan", 
+                "type": "KAB", 
+                "latitude": -7.65, 
+                "longitude": 111.333333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 240, 
+                "name": "Kab. Malang", 
+                "type": "KAB", 
+                "latitude": -7.981894, 
+                "longitude": 112.626503, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 241, 
+                "name": "Kab. Mojokerto", 
+                "type": "KAB", 
+                "latitude": -7.46666666666667, 
+                "longitude": 112.433333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 242, 
+                "name": "Kab. Nganjuk", 
+                "type": "KAB", 
+                "latitude": -7.6, 
+                "longitude": 111.916666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 243, 
+                "name": "Kab. Ngawi", 
+                "type": "KAB", 
+                "latitude": -7.4, 
+                "longitude": 111.433333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 244, 
+                "name": "Kab. Pacitan", 
+                "type": "KAB", 
+                "latitude": -8.2, 
+                "longitude": 111.116666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 245, 
+                "name": "Kab. Pamekasan", 
+                "type": "KAB", 
+                "latitude": -7.15, 
+                "longitude": 113.483333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 246, 
+                "name": "Kab. Pasuruan", 
+                "type": "KAB", 
+                "latitude": -7.66666666666667, 
+                "longitude": 112.733333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 247, 
+                "name": "Kab. Ponorogo", 
+                "type": "KAB", 
+                "latitude": -7.86666666666667, 
+                "longitude": 111.45, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 248, 
+                "name": "Kab. Probolinggo", 
+                "type": "KAB", 
+                "latitude": -7.76666666666667, 
+                "longitude": 113.216666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 249, 
+                "name": "Kab. Sampang", 
+                "type": "KAB", 
+                "latitude": -7.18333333333333, 
+                "longitude": 113.216666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 250, 
+                "name": "Kab. Sidoarjo", 
+                "type": "KAB", 
+                "latitude": -7.45, 
+                "longitude": 112.716666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 251, 
+                "name": "Kab. Situbondo", 
+                "type": "KAB", 
+                "latitude": -7.7, 
+                "longitude": 114.0, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 252, 
+                "name": "Kab. Sumenep", 
+                "type": "KAB", 
+                "latitude": -7.0, 
+                "longitude": 113.85, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 253, 
+                "name": "Kab. Trenggalek", 
+                "type": "KAB", 
+                "latitude": -8.05, 
+                "longitude": 111.716666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 254, 
+                "name": "Kab. Tuban", 
+                "type": "KAB", 
+                "latitude": -6.9, 
+                "longitude": 112.066666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 255, 
+                "name": "Kab. Tulungagung", 
+                "type": "KAB", 
+                "latitude": -8.0666667, 
+                "longitude": 111.9, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 256, 
+                "name": "Kota Batu", 
+                "type": "KOTA", 
+                "latitude": -7.8671, 
+                "longitude": 112.5239, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 257, 
+                "name": "Kota Blitar", 
+                "type": "KOTA", 
+                "latitude": -8.1, 
+                "longitude": 112.166666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 258, 
+                "name": "Kota Kediri", 
+                "type": "KOTA", 
+                "latitude": -7.81666666666667, 
+                "longitude": 112.016666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 259, 
+                "name": "Kota Madiun", 
+                "type": "KOTA", 
+                "latitude": -7.63333333333333, 
+                "longitude": 111.516666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 260, 
+                "name": "Kota Malang", 
+                "type": "KOTA", 
+                "latitude": -7.981894, 
+                "longitude": 112.626503, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 261, 
+                "name": "Kota Mojokerto", 
+                "type": "KOTA", 
+                "latitude": -7.46666666666667, 
+                "longitude": 112.433333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 262, 
+                "name": "Kota Pasuruan", 
+                "type": "KOTA", 
+                "latitude": -7.66666666666667, 
+                "longitude": 112.733333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 263, 
+                "name": "Kota Probolinggo", 
+                "type": "KOTA", 
+                "latitude": -7.76666666666667, 
+                "longitude": 113.216666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 264, 
+                "name": "Kota Surabaya", 
+                "type": "KOTA", 
+                "latitude": -7.23333333333333, 
+                "longitude": 112.75, 
+                "timezone": "Asia/Jakarta"
+            }
+        ]
+    }, 
+    {
+        "id": 11, 
+        "shortname": "KBR", 
+        "name": "Kalimantan Barat", 
+        "districts": [
+            {
+                "id": 310, 
+                "name": "Kab. Bengkayang", 
+                "type": "KAB", 
+                "latitude": 0.8209729, 
+                "longitude": 109.477699, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 311, 
+                "name": "Kab. Kapuas Hulu", 
+                "type": "KAB", 
+                "latitude": -0.7931004, 
+                "longitude": 113.9060624, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 312, 
+                "name": "Kab. Kayong Utara", 
+                "type": "KAB", 
+                "latitude": -0.9225877, 
+                "longitude": 110.0449662, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 313, 
+                "name": "Kab. Ketapang", 
+                "type": "KAB", 
+                "latitude": -1.8, 
+                "longitude": 110.166666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 314, 
+                "name": "Kab. Kubu Raya", 
+                "type": "KAB", 
+                "latitude": -0.3533938, 
+                "longitude": 109.4735066, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 315, 
+                "name": "Kab. Landak", 
+                "type": "KAB", 
+                "latitude": 0.4237287, 
+                "longitude": 109.7591675, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 316, 
+                "name": "Kab. Melawi", 
+                "type": "KAB", 
+                "latitude": -0.7000681, 
+                "longitude": 111.6660725, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 317, 
+                "name": "Kab. Pontianak", 
+                "type": "KAB", 
+                "latitude": 0.0166666666666667, 
+                "longitude": 109.316666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 318, 
+                "name": "Kab. Sambas", 
+                "type": "KAB", 
+                "latitude": 1.361328, 
+                "longitude": 109.309998, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 319, 
+                "name": "Kab. Sanggau", 
+                "type": "KAB", 
+                "latitude": 0.25, 
+                "longitude": 110.25, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 320, 
+                "name": "Kab. Sekadau", 
+                "type": "KAB", 
+                "latitude": 0.015637, 
+                "longitude": 110.888603, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 321, 
+                "name": "Kab. Sintang", 
+                "type": "KAB", 
+                "latitude": 0.0666666666666667, 
+                "longitude": 111.5, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 322, 
+                "name": "Kota Pontianak", 
+                "type": "KOTA", 
+                "latitude": 0.0166666666666667, 
+                "longitude": 109.316666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 323, 
+                "name": "Kota Singkawang", 
+                "type": "KOTA", 
+                "latitude": 0.9, 
+                "longitude": 108.983333333333, 
+                "timezone": "Asia/Jakarta"
+            }
+        ]
+    }, 
+    {
+        "id": 12, 
+        "shortname": "KSL", 
+        "name": "Kalimantan Selatan", 
+        "districts": [
+            {
+                "id": 324, 
+                "name": "Kab. Balangan", 
+                "type": "KAB", 
+                "latitude": -2.3260425, 
+                "longitude": 115.6154732, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 325, 
+                "name": "Kab. Banjar", 
+                "type": "KAB", 
+                "latitude": -3.3200228, 
+                "longitude": 114.9991464, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 326, 
+                "name": "Kab. Barito Kuala", 
+                "type": "KAB", 
+                "latitude": -3.0714738, 
+                "longitude": 114.6667939, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 327, 
+                "name": "Kab. Hulu Sungai Selatan", 
+                "type": "KAB", 
+                "latitude": -2.7662681, 
+                "longitude": 115.2363408, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 328, 
+                "name": "Kab. Hulu Sungai Tengah", 
+                "type": "KAB", 
+                "latitude": -2.6153162, 
+                "longitude": 115.5207358, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 329, 
+                "name": "Kab. Hulu Sungai Utara", 
+                "type": "KAB", 
+                "latitude": -2.4421225, 
+                "longitude": 115.188916, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 330, 
+                "name": "Kab. Kota Baru", 
+                "type": "KAB", 
+                "latitude": -3.0029841, 
+                "longitude": 115.9467997, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 331, 
+                "name": "Kab. Tabalong", 
+                "type": "KAB", 
+                "latitude": -1.864302, 
+                "longitude": 115.5681084, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 332, 
+                "name": "Kab. Tanah Bumbu", 
+                "type": "KAB", 
+                "latitude": -3.4512244, 
+                "longitude": 115.5681084, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 333, 
+                "name": "Kab. Tanah Laut", 
+                "type": "KAB", 
+                "latitude": -3.7694047, 
+                "longitude": 114.8092691, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 334, 
+                "name": "Kab. Tapin", 
+                "type": "KAB", 
+                "latitude": -2.9160746, 
+                "longitude": 115.0465991, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 335, 
+                "name": "Kota Banjarbaru", 
+                "type": "KAB", 
+                "latitude": -3.4666667, 
+                "longitude": 114.75, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 336, 
+                "name": "Kota Banjarmasin", 
+                "type": "KAB", 
+                "latitude": -3.31666666666667, 
+                "longitude": 114.533333333333, 
+                "timezone": "Asia/Makassar"
+            }
+        ]
+    }, 
+    {
+        "id": 13, 
+        "shortname": "KTG", 
+        "name": "Kalimantan Tengah", 
+        "districts": [
+            {
+                "id": 337, 
+                "name": "Kab. Barito Selatan", 
+                "type": "KAB", 
+                "latitude": -1.875943, 
+                "longitude": 114.8092691, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 338, 
+                "name": "Kab. Barito Timur", 
+                "type": "KAB", 
+                "latitude": -2.0123999, 
+                "longitude": 115.188916, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 339, 
+                "name": "Kab. Barito Utara", 
+                "type": "KAB", 
+                "latitude": -0.9587136, 
+                "longitude": 115.094045, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 340, 
+                "name": "Kab. Gunung Mas", 
+                "type": "KAB", 
+                "latitude": -6.7052778, 
+                "longitude": 106.9913889, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 341, 
+                "name": "Kab. Kapuas", 
+                "type": "KAB", 
+                "latitude": -2.91666666666667, 
+                "longitude": 114.333333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 342, 
+                "name": "Kab. Katingan", 
+                "type": "KAB", 
+                "latitude": -0.9758379, 
+                "longitude": 112.8105512, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 343, 
+                "name": "Kab. Kotawaringin Barat", 
+                "type": "KAB", 
+                "latitude": -2.5063419, 
+                "longitude": 111.7614661, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 344, 
+                "name": "Kab. Kotawaringin Timur", 
+                "type": "KAB", 
+                "latitude": -2.1225475, 
+                "longitude": 112.8105512, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 345, 
+                "name": "Kab. Lamandau", 
+                "type": "KAB", 
+                "latitude": -1.9269166, 
+                "longitude": 111.1891151, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 346, 
+                "name": "Kab. Murung Raya", 
+                "type": "KAB", 
+                "latitude": -0.1362171, 
+                "longitude": 114.3341432, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 347, 
+                "name": "Kab. Pulang Pisau", 
+                "type": "KAB", 
+                "latitude": -2.6849607, 
+                "longitude": 113.9536466, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 349, 
+                "name": "Kab. Seruyan", 
+                "type": "KAB", 
+                "latitude": -3.0123467, 
+                "longitude": 112.4291464, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 348, 
+                "name": "Kab. Sukamara", 
+                "type": "KAB", 
+                "latitude": -2.6267517, 
+                "longitude": 111.2368084, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 350, 
+                "name": "Kota Palangka Raya", 
+                "type": "KOTA", 
+                "latitude": -2.21, 
+                "longitude": 113.92, 
+                "timezone": "Asia/Jakarta"
+            }
+        ]
+    }, 
+    {
+        "id": 14, 
+        "shortname": "KTM", 
+        "name": "Kalimantan Timur", 
+        "districts": [
+            {
+                "id": 351, 
+                "name": "Kab. Berau", 
+                "type": "KAB", 
+                "latitude": 2.0450883, 
+                "longitude": 117.3616476, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 352, 
+                "name": "Kab. Bulungan", 
+                "type": "KAB", 
+                "latitude": 2.9042476, 
+                "longitude": 116.9852422, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 353, 
+                "name": "Kab. Kutai Barat", 
+                "type": "KAB", 
+                "latitude": 0.1353881, 
+                "longitude": 115.094045, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 354, 
+                "name": "Kab. Kutai Kartanegara", 
+                "type": "KAB", 
+                "latitude": -0.1336655, 
+                "longitude": 116.6081653, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 355, 
+                "name": "Kab. Kutai Timur", 
+                "type": "KAB", 
+                "latitude": 0.9433774, 
+                "longitude": 116.9852422, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 356, 
+                "name": "Kab. Malinau", 
+                "type": "KAB", 
+                "latitude": 3.584221, 
+                "longitude": 116.647797, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 357, 
+                "name": "Kab. Nunukan", 
+                "type": "KAB", 
+                "latitude": 4.1, 
+                "longitude": 117.666666666667, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 358, 
+                "name": "Kab. Paser", 
+                "type": "KAB", 
+                "latitude": -1.7175266, 
+                "longitude": 115.9467997, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 359, 
+                "name": "Kab. Penajam Paser Utara", 
+                "type": "KAB", 
+                "latitude": -1.2917094, 
+                "longitude": 116.5137964, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 360, 
+                "name": "Kab. Tana Tidung", 
+                "type": "KAB", 
+                "latitude": 3.551869, 
+                "longitude": 117.0794082, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 361, 
+                "name": "Kota Balikpapan", 
+                "type": "KOTA", 
+                "latitude": -1.2697669, 
+                "longitude": 116.8361715, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 362, 
+                "name": "Kota Bontang", 
+                "type": "KOTA", 
+                "latitude": 0.116666666666667, 
+                "longitude": 117.5, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 363, 
+                "name": "Kota Samarinda", 
+                "type": "KOTA", 
+                "latitude": -0.45, 
+                "longitude": 117.15, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 364, 
+                "name": "Kota Tarakan", 
+                "type": "KOTA", 
+                "latitude": 3.3, 
+                "longitude": 117.633333333333, 
+                "timezone": "Asia/Makassar"
+            }
+        ]
+    }, 
+    {
+        "id": 15, 
+        "shortname": "BBL", 
+        "name": "Kepulauan Bangka-Belitung", 
+        "districts": [
+            {
+                "id": 138, 
+                "name": "Kab. Bangka", 
+                "type": "KAB", 
+                "latitude": -2.2884782, 
+                "longitude": 106.0640179, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 139, 
+                "name": "Kab. Bangka Barat", 
+                "type": "KAB", 
+                "latitude": -1.8405046, 
+                "longitude": 105.5005483, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 140, 
+                "name": "Kab. Bangka Selatan", 
+                "type": "KAB", 
+                "latitude": -2.7410513, 
+                "longitude": 106.4405872, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 141, 
+                "name": "Kab. Bangka Tengah", 
+                "type": "KAB", 
+                "latitude": -2.4007823, 
+                "longitude": 106.2051484, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 142, 
+                "name": "Kab. Belitung", 
+                "type": "KAB", 
+                "latitude": -2.8708938, 
+                "longitude": 107.9531836, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 143, 
+                "name": "Kab. Belitung Timur", 
+                "type": "KAB", 
+                "latitude": -2.8678037, 
+                "longitude": 108.1428669, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 144, 
+                "name": "Kota Pangkal Pinang", 
+                "type": "KOTA", 
+                "latitude": -2.129323, 
+                "longitude": 106.109596, 
+                "timezone": "Asia/Jakarta"
+            }
+        ]
+    }, 
+    {
+        "id": 16, 
+        "shortname": "KRI", 
+        "name": "Kepulauan Riau", 
+        "districts": [
+            {
+                "id": 145, 
+                "name": "Kab. Bintan", 
+                "type": "KAB", 
+                "latitude": 1.0619173, 
+                "longitude": 104.5189214, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 146, 
+                "name": "Kab. Karimun", 
+                "type": "KAB", 
+                "latitude": 1.05, 
+                "longitude": 103.3666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 147, 
+                "name": "Kab. Kepulauan Anambas", 
+                "type": "KAB", 
+                "latitude": 3.1055459, 
+                "longitude": 105.6537231, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 148, 
+                "name": "Kab. Lingga", 
+                "type": "KAB", 
+                "latitude": -0.1627686, 
+                "longitude": 104.6354631, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 149, 
+                "name": "Kab. Natuna", 
+                "type": "KAB", 
+                "latitude": 4.0, 
+                "longitude": 108.25, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 150, 
+                "name": "Kota Batam", 
+                "type": "KOTA", 
+                "latitude": 1.13333333333333, 
+                "longitude": 104.05, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 151, 
+                "name": "Kota Tanjung Pinang", 
+                "type": "KOTA", 
+                "latitude": 0.916666666666667, 
+                "longitude": 104.45, 
+                "timezone": "Asia/Jakarta"
+            }
+        ]
+    }, 
+    {
+        "id": 17, 
+        "shortname": "LPG", 
+        "name": "Lampung", 
+        "districts": [
+            {
+                "id": 124, 
+                "name": "Kab. Lampung Barat", 
+                "type": "KAB", 
+                "latitude": -5.1490396, 
+                "longitude": 104.1930918, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 125, 
+                "name": "Kab. Lampung Selatan", 
+                "type": "KAB", 
+                "latitude": -5.5622614, 
+                "longitude": 105.5474373, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 126, 
+                "name": "Kab. Lampung Tengah", 
+                "type": "KAB", 
+                "latitude": -4.8008086, 
+                "longitude": 105.3131185, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 127, 
+                "name": "Kab. Lampung Timur", 
+                "type": "KAB", 
+                "latitude": -5.1134995, 
+                "longitude": 105.6881788, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 128, 
+                "name": "Kab. Lampung Utara", 
+                "type": "KAB", 
+                "latitude": -4.8133905, 
+                "longitude": 104.7520939, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 129, 
+                "name": "Kab. Mesuji", 
+                "type": "KAB", 
+                "latitude": -4.0044783, 
+                "longitude": 105.3131185, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 130, 
+                "name": "Kab. Pesawaran", 
+                "type": "KAB", 
+                "latitude": -5.493245, 
+                "longitude": 105.0791228, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 131, 
+                "name": "Kab. Pringsewu", 
+                "type": "KAB", 
+                "latitude": -5.3331186, 
+                "longitude": 104.9856176, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 132, 
+                "name": "Kab. Tanggamus", 
+                "type": "KAB", 
+                "latitude": -5.3027489, 
+                "longitude": 104.5655273, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 133, 
+                "name": "Kab. Tulang Bawang", 
+                "type": "KAB", 
+                "latitude": -4.3303072, 
+                "longitude": 104.6296338, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 134, 
+                "name": "Kab. Tulang Bawang Barat", 
+                "type": "KAB", 
+                "latitude": -4.5256967, 
+                "longitude": 105.0791228, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 135, 
+                "name": "Kab. Way Kanan", 
+                "type": "KAB", 
+                "latitude": -4.4963689, 
+                "longitude": 104.5655273, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 136, 
+                "name": "Kota Bandar Lampung", 
+                "type": "KOTA", 
+                "latitude": -5.45, 
+                "longitude": 105.2666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 137, 
+                "name": "Kota Metro", 
+                "type": "KOTA", 
+                "latitude": -5.11666666666667, 
+                "longitude": 105.266666666667, 
+                "timezone": "Asia/Jakarta"
+            }
+        ]
+    }, 
+    {
+        "id": 18, 
+        "shortname": "MLK", 
+        "name": "Maluku", 
+        "districts": [
+            {
+                "id": 438, 
+                "name": "Kab. Buru", 
+                "type": "KAB", 
+                "latitude": -3.3927754, 
+                "longitude": 126.7819505, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 439, 
+                "name": "Kab. Buru Selatan", 
+                "type": "KAB", 
+                "latitude": -3.5947498, 
+                "longitude": 126.6957216, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 440, 
+                "name": "Kab. Kepulauan Aru", 
+                "type": "KAB", 
+                "latitude": -6.1946502, 
+                "longitude": 134.5501935, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 441, 
+                "name": "Kab. Maluku Barat Daya", 
+                "type": "KAB", 
+                "latitude": -7.7851588, 
+                "longitude": 126.3498097, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 442, 
+                "name": "Kab. Maluku Tengah", 
+                "type": "KAB", 
+                "latitude": -3.0166501, 
+                "longitude": 129.4864411, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 443, 
+                "name": "Kab. Maluku Tenggara", 
+                "type": "KAB", 
+                "latitude": -5.7512455, 
+                "longitude": 132.7271587, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 444, 
+                "name": "Kab. Maluku Tenggara Barat", 
+                "type": "KAB", 
+                "latitude": -7.5322642, 
+                "longitude": 131.3611121, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 445, 
+                "name": "Kab. Seram Bagian Barat", 
+                "type": "KAB", 
+                "latitude": -3.1271575, 
+                "longitude": 128.4008357, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 446, 
+                "name": "Kab. Seram Bagian Timur", 
+                "type": "KAB", 
+                "latitude": -3.4150761, 
+                "longitude": 130.390488, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 447, 
+                "name": "Kota Ambon", 
+                "type": "KOTA", 
+                "latitude": -3.63333333333333, 
+                "longitude": 128.083333333333, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 448, 
+                "name": "Kota Tual", 
+                "type": "KOTA", 
+                "latitude": -5.63333333333333, 
+                "longitude": 132.666666666667, 
+                "timezone": "Asia/Jayapura"
+            }
+        ]
+    }, 
+    {
+        "id": 19, 
+        "shortname": "MUT", 
+        "name": "Maluku Utara", 
+        "districts": [
+            {
+                "id": 449, 
+                "name": "Kab. Halmahera Barat", 
+                "type": "KAB", 
+                "latitude": 1.3589663, 
+                "longitude": 127.5960704, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 452, 
+                "name": "Kab. Halmahera Selatan", 
+                "type": "KAB", 
+                "latitude": -1.5109015, 
+                "longitude": 127.7237678, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 450, 
+                "name": "Kab. Halmahera Tengah", 
+                "type": "KAB", 
+                "latitude": 0.4419543, 
+                "longitude": 128.3587174, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 454, 
+                "name": "Kab. Halmahera Timur", 
+                "type": "KAB", 
+                "latitude": 1.3121235, 
+                "longitude": 128.4849923, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 451, 
+                "name": "Kab. Halmahera Utara", 
+                "type": "KAB", 
+                "latitude": 1.5074308, 
+                "longitude": 127.8936663, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 453, 
+                "name": "Kab. Kepulauan Sula", 
+                "type": "KAB", 
+                "latitude": -1.8666667, 
+                "longitude": 125.3666667, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 455, 
+                "name": "Kab. Pulau Morotai", 
+                "type": "KAB", 
+                "latitude": 2.3656672, 
+                "longitude": 128.4008357, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 456, 
+                "name": "Kota Ternate", 
+                "type": "KOTA", 
+                "latitude": 0.783333333333333, 
+                "longitude": 127.316666666667, 
+                "timezone": "Asia/Jayapura"
+            }
+        ]
+    }, 
+    {
+        "id": 21, 
+        "shortname": "NTB", 
+        "name": "Nusa Tenggara Barat", 
+        "districts": [
+            {
+                "id": 279, 
+                "name": "Kab. Bima", 
+                "type": "KAB", 
+                "latitude": -8.45, 
+                "longitude": 118.716666666667, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 280, 
+                "name": "Kab. Dompu", 
+                "type": "KAB", 
+                "latitude": -8.53333333333333, 
+                "longitude": 118.466666666667, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 281, 
+                "name": "Kab. Lombok Barat", 
+                "type": "KAB", 
+                "latitude": -8.6464599, 
+                "longitude": 116.1123078, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 282, 
+                "name": "Kab. Lombok Tengah", 
+                "type": "KAB", 
+                "latitude": -8.694623, 
+                "longitude": 116.2777073, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 283, 
+                "name": "Kab. Lombok Timur", 
+                "type": "KAB", 
+                "latitude": -8.5134471, 
+                "longitude": 116.5609857, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 284, 
+                "name": "Kab. Lombok Utara", 
+                "type": "KAB", 
+                "latitude": -8.3739076, 
+                "longitude": 116.2777073, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 285, 
+                "name": "Kab. Sumbawa", 
+                "type": "KAB", 
+                "latitude": -8.53333333333333, 
+                "longitude": 117.45, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 286, 
+                "name": "Kab. Sumbawa Barat", 
+                "type": "KAB", 
+                "latitude": -8.9292907, 
+                "longitude": 116.8910342, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 287, 
+                "name": "Kota Bima", 
+                "type": "KOTA", 
+                "latitude": -8.45, 
+                "longitude": 118.716666666667, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 288, 
+                "name": "Kota Mataram", 
+                "type": "KOTA", 
+                "latitude": -8.58333333333333, 
+                "longitude": 116.133333333333, 
+                "timezone": "Asia/Makassar"
+            }
+        ]
+    }, 
+    {
+        "id": 22, 
+        "shortname": "NTT", 
+        "name": "Nusa Tenggara Timur", 
+        "districts": [
+            {
+                "id": 289, 
+                "name": "Kab. Alor", 
+                "type": "KAB", 
+                "latitude": -8.2754027, 
+                "longitude": 124.7298765, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 290, 
+                "name": "Kab. Belu", 
+                "type": "KAB", 
+                "latitude": -9.4125796, 
+                "longitude": 124.9506625, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 291, 
+                "name": "Kab. Ende", 
+                "type": "KAB", 
+                "latitude": -8.75, 
+                "longitude": 121.666666666667, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 292, 
+                "name": "Kab. Flores Timur", 
+                "type": "KAB", 
+                "latitude": -8.3130942, 
+                "longitude": 122.9663018, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 293, 
+                "name": "Kab. Kupang", 
+                "type": "KAB", 
+                "latitude": -10.1833333333333, 
+                "longitude": 123.566666666667, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 294, 
+                "name": "Kab. Lembata", 
+                "type": "KAB", 
+                "latitude": -8.4719075, 
+                "longitude": 123.4831906, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 295, 
+                "name": "Kab. Manggarai", 
+                "type": "KAB", 
+                "latitude": -8.6796987, 
+                "longitude": 120.3896651, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 296, 
+                "name": "Kab. Manggarai Barat", 
+                "type": "KAB", 
+                "latitude": -8.6688149, 
+                "longitude": 120.0665236, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 297, 
+                "name": "Kab. Manggarai Timur", 
+                "type": "KAB", 
+                "latitude": -8.6206712, 
+                "longitude": 120.6199895, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 299, 
+                "name": "Kab. Nagekeo", 
+                "type": "KAB", 
+                "latitude": -8.6753545, 
+                "longitude": 121.3084088, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 298, 
+                "name": "Kab. Ngada", 
+                "type": "KAB", 
+                "latitude": -8.7430424, 
+                "longitude": 120.9876321, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 300, 
+                "name": "Kab. Rote Ndao", 
+                "type": "KAB", 
+                "latitude": -10.7386421, 
+                "longitude": 123.1239049, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 301, 
+                "name": "Kab. Sabu Raijua", 
+                "type": "KAB", 
+                "latitude": -10.5541116, 
+                "longitude": 121.8334868, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 302, 
+                "name": "Kab. Sikka", 
+                "type": "KAB", 
+                "latitude": -8.6766175, 
+                "longitude": 122.1291843, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 303, 
+                "name": "Kab. Sumba Barat", 
+                "type": "KAB", 
+                "latitude": -9.6548326, 
+                "longitude": 119.3947135, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 304, 
+                "name": "Kab. Sumba Barat Daya", 
+                "type": "KAB", 
+                "latitude": -9.539139, 
+                "longitude": 119.1390642, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 305, 
+                "name": "Kab. Sumba Tengah", 
+                "type": "KAB", 
+                "latitude": -9.4879226, 
+                "longitude": 119.6962677, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 306, 
+                "name": "Kab. Sumba Timur", 
+                "type": "KAB", 
+                "latitude": -9.9802103, 
+                "longitude": 120.3435506, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 307, 
+                "name": "Kab. Timor Tengah Selatan", 
+                "type": "KAB", 
+                "latitude": -9.7762816, 
+                "longitude": 124.4198243, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 308, 
+                "name": "Kab. Timor Tengah Utara", 
+                "type": "KAB", 
+                "latitude": -9.4522647, 
+                "longitude": 124.597132, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 309, 
+                "name": "Kota Kupang", 
+                "type": "KOTA", 
+                "latitude": -10.1833333333333, 
+                "longitude": 123.566666666667, 
+                "timezone": "Asia/Makassar"
+            }
+        ]
+    }, 
+    {
+        "id": 23, 
+        "shortname": "PPA", 
+        "name": "Papua", 
+        "districts": [
+            {
+                "id": 457, 
+                "name": "Kab. Asmat", 
+                "type": "KAB", 
+                "latitude": -5.0573958, 
+                "longitude": 138.3988186, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 458, 
+                "name": "Kab. Biak Numfor", 
+                "type": "KAB", 
+                "latitude": -1.0381022, 
+                "longitude": 135.9800848, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 459, 
+                "name": "Kab. Boven Digoel", 
+                "type": "KAB", 
+                "latitude": -5.7400018, 
+                "longitude": 140.3481835, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 460, 
+                "name": "Kab. Deiyai", 
+                "type": "KAB", 
+                "latitude": -4.0974893, 
+                "longitude": 136.4393054, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 461, 
+                "name": "Kab. Dogiyai", 
+                "type": "KAB", 
+                "latitude": -4.0193872, 
+                "longitude": 135.9610446, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 462, 
+                "name": "Kab. Intan Jaya", 
+                "type": "KAB", 
+                "latitude": -3.5076422, 
+                "longitude": 136.7478493, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 463, 
+                "name": "Kab. Jayapura", 
+                "type": "KAB", 
+                "latitude": -3.05, 
+                "longitude": 140.45, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 464, 
+                "name": "Kab. Jayawijaya", 
+                "type": "KAB", 
+                "latitude": -4.0004481, 
+                "longitude": 138.7995122, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 465, 
+                "name": "Kab. Keerom", 
+                "type": "KAB", 
+                "latitude": -3.3449536, 
+                "longitude": 140.7624493, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 466, 
+                "name": "Kab. Kepulauan Yapen", 
+                "type": "KAB", 
+                "latitude": -1.7469359, 
+                "longitude": 136.1709012, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 467, 
+                "name": "Kab. Lanny Jaya", 
+                "type": "KAB", 
+                "latitude": -3.971033, 
+                "longitude": 138.3190276, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 468, 
+                "name": "Kab. Mamberamo Raya", 
+                "type": "KAB", 
+                "latitude": -2.5331255, 
+                "longitude": 137.7637565, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 469, 
+                "name": "Kab. Mamberamo Tengah", 
+                "type": "KAB", 
+                "latitude": -2.3745692, 
+                "longitude": 138.3190276, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 470, 
+                "name": "Kab. Mappi", 
+                "type": "KAB", 
+                "latitude": -7.102232, 
+                "longitude": 139.396393, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 471, 
+                "name": "Kab. Merauke", 
+                "type": "KAB", 
+                "latitude": -8.43333333333333, 
+                "longitude": 140.366666666667, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 472, 
+                "name": "Kab. Mimika", 
+                "type": "KAB", 
+                "latitude": -4.4553223, 
+                "longitude": 137.1362125, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 473, 
+                "name": "Kab. Nabire", 
+                "type": "KAB", 
+                "latitude": -3.36666666666667, 
+                "longitude": 135.5, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 474, 
+                "name": "Kab. Nduga", 
+                "type": "KAB", 
+                "latitude": -4.4069496, 
+                "longitude": 138.2393528, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 475, 
+                "name": "Kab. Paniai", 
+                "type": "KAB", 
+                "latitude": -3.7876441, 
+                "longitude": 136.3624686, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 476, 
+                "name": "Kab. Pegunungan Bintang", 
+                "type": "KAB", 
+                "latitude": -4.5589872, 
+                "longitude": 140.5135589, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 477, 
+                "name": "Kab. Puncak", 
+                "type": "KAB", 
+                "latitude": -6.7125476, 
+                "longitude": 106.9542425, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 478, 
+                "name": "Kab. Puncak Jaya", 
+                "type": "KAB", 
+                "latitude": -4.0836111, 
+                "longitude": 137.1847222, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 479, 
+                "name": "Kab. Sarmi", 
+                "type": "KAB", 
+                "latitude": -1.868727, 
+                "longitude": 138.743607, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 480, 
+                "name": "Kab. Supiori", 
+                "type": "KAB", 
+                "latitude": -0.7295099, 
+                "longitude": 135.6385125, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 481, 
+                "name": "Kab. Tolikara", 
+                "type": "KAB", 
+                "latitude": -3.481132, 
+                "longitude": 138.4787258, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 482, 
+                "name": "Kab. Waropen", 
+                "type": "KAB", 
+                "latitude": -2.8435717, 
+                "longitude": 136.670534, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 483, 
+                "name": "Kab. Yahukimo", 
+                "type": "KAB", 
+                "latitude": -4.4939717, 
+                "longitude": 139.5279996, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 484, 
+                "name": "Kab. Yalimo", 
+                "type": "KAB", 
+                "latitude": -3.7852847, 
+                "longitude": 139.4466005, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 485, 
+                "name": "Kota Jayapura", 
+                "type": "KOTA", 
+                "latitude": -3.05, 
+                "longitude": 140.45, 
+                "timezone": "Asia/Jayapura"
+            }
+        ]
+    }, 
+    {
+        "id": 24, 
+        "shortname": "PPB", 
+        "name": "Papua Barat", 
+        "districts": [
+            {
+                "id": 486, 
+                "name": "Kab. Fakfak", 
+                "type": "KAB", 
+                "latitude": -2.85, 
+                "longitude": 132.35, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 487, 
+                "name": "Kab. Kaimana", 
+                "type": "KAB", 
+                "latitude": -3.660925, 
+                "longitude": 133.774506, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 488, 
+                "name": "Kab. Manokwari", 
+                "type": "KAB", 
+                "latitude": -0.9, 
+                "longitude": 134.0, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 489, 
+                "name": "Kab. Maybrat", 
+                "type": "KAB", 
+                "latitude": -1.2970979, 
+                "longitude": 132.3150993, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 490, 
+                "name": "Kab. Raja Ampat", 
+                "type": "KAB", 
+                "latitude": -1.0915151, 
+                "longitude": 130.8778586, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 491, 
+                "name": "Kab. Sorong", 
+                "type": "KAB", 
+                "latitude": -0.866666666666667, 
+                "longitude": 131.25, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 492, 
+                "name": "Kab. Sorong Selatan", 
+                "type": "KAB", 
+                "latitude": -1.7657744, 
+                "longitude": 132.1572702, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 493, 
+                "name": "Kab. Tambrauw", 
+                "type": "KAB", 
+                "latitude": -0.781856, 
+                "longitude": 132.3938375, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 494, 
+                "name": "Kab. Teluk Bintuni", 
+                "type": "KAB", 
+                "latitude": -1.9056848, 
+                "longitude": 133.329466, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 495, 
+                "name": "Kab. Teluk Wondama", 
+                "type": "KAB", 
+                "latitude": -2.8551699, 
+                "longitude": 134.3236557, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 496, 
+                "name": "Kota Sorong", 
+                "type": "KOTA", 
+                "latitude": -0.866666666666667, 
+                "longitude": 131.25, 
+                "timezone": "Asia/Jayapura"
+            }
+        ]
+    }, 
+    {
+        "id": 25, 
+        "shortname": "RIU", 
+        "name": "Riau", 
+        "districts": [
+            {
+                "id": 78, 
+                "name": "Kab. Bengkalis", 
+                "type": "KAB", 
+                "latitude": 1.55, 
+                "longitude": 102.083333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 79, 
+                "name": "Kab. Indragiri Hilir", 
+                "type": "KAB", 
+                "latitude": -0.1456733, 
+                "longitude": 102.989615, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 80, 
+                "name": "Kab. Indragiri Hulu", 
+                "type": "KAB", 
+                "latitude": -0.7361181, 
+                "longitude": 102.2547919, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 81, 
+                "name": "Kab. Kampar", 
+                "type": "KAB", 
+                "latitude": 0.146671, 
+                "longitude": 101.1617356, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 87, 
+                "name": "Kab. Kepulauan Meranti", 
+                "type": "KAB", 
+                "latitude": 0.9208765, 
+                "longitude": 102.6675575, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 82, 
+                "name": "Kab. Kuantan Singingi", 
+                "type": "KAB", 
+                "latitude": -0.4411596, 
+                "longitude": 101.5248055, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 83, 
+                "name": "Kab. Pelalawan", 
+                "type": "KAB", 
+                "latitude": 0.441415, 
+                "longitude": 102.088699, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 84, 
+                "name": "Kab. Rokan Hilir", 
+                "type": "KAB", 
+                "latitude": 1.6463978, 
+                "longitude": 100.8000051, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 85, 
+                "name": "Kab. Rokan Hulu", 
+                "type": "KAB", 
+                "latitude": 1.0410934, 
+                "longitude": 100.439656, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 86, 
+                "name": "Kab. Siak", 
+                "type": "KAB", 
+                "latitude": 0.8118812, 
+                "longitude": 101.7979613, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 88, 
+                "name": "Kota Dumai", 
+                "type": "KOTA", 
+                "latitude": 1.63333333333333, 
+                "longitude": 101.433333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 89, 
+                "name": "Kota Pekanbaru", 
+                "type": "KOTA", 
+                "latitude": 0.5333333, 
+                "longitude": 101.45, 
+                "timezone": "Asia/Jakarta"
+            }
+        ]
+    }, 
+    {
+        "id": 26, 
+        "shortname": "SLB", 
+        "name": "Sulawesi Barat", 
+        "districts": [
+            {
+                "id": 433, 
+                "name": "Kab. Majene", 
+                "type": "KAB", 
+                "latitude": -6.83333333333333, 
+                "longitude": 108.216666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 434, 
+                "name": "Kab. Mamasa", 
+                "type": "KAB", 
+                "latitude": -2.960135, 
+                "longitude": 119.368202, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 435, 
+                "name": "Kab. Mamuju", 
+                "type": "KAB", 
+                "latitude": -2.68333333333333, 
+                "longitude": 118.916666666667, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 436, 
+                "name": "Kab. Mamuju Utara", 
+                "type": "KAB", 
+                "latitude": -1.5264542, 
+                "longitude": 119.5107708, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 437, 
+                "name": "Kab. Polewali Mandar", 
+                "type": "KAB", 
+                "latitude": -3.3419323, 
+                "longitude": 119.1390642, 
+                "timezone": "Asia/Makassar"
+            }
+        ]
+    }, 
+    {
+        "id": 27, 
+        "shortname": "SLS", 
+        "name": "Sulawesi Selatan", 
+        "districts": [
+            {
+                "id": 371, 
+                "name": "Kab. Bantaeng", 
+                "type": "KAB", 
+                "latitude": -5.53333333333333, 
+                "longitude": 119.933333333333, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 372, 
+                "name": "Kab. Barru", 
+                "type": "KAB", 
+                "latitude": -4.4, 
+                "longitude": 119.683333333333, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 373, 
+                "name": "Kab. Bone", 
+                "type": "KAB", 
+                "latitude": -2.083333, 
+                "longitude": 120.216667, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 374, 
+                "name": "Kab. Bulukumba", 
+                "type": "KAB", 
+                "latitude": -5.38333333333333, 
+                "longitude": 120.15, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 375, 
+                "name": "Kab. Enrekang", 
+                "type": "KAB", 
+                "latitude": -3.56666666666667, 
+                "longitude": 119.766666666667, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 376, 
+                "name": "Kab. Gowa", 
+                "type": "KAB", 
+                "latitude": -5.3102888, 
+                "longitude": 119.742604, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 377, 
+                "name": "Kab. Jeneponto", 
+                "type": "KAB", 
+                "latitude": -5.68333333333333, 
+                "longitude": 119.75, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 378, 
+                "name": "Kab. Kepulauan Selayar", 
+                "type": "KAB", 
+                "latitude": -6.0, 
+                "longitude": 120.5, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 379, 
+                "name": "Kab. Luwu", 
+                "type": "KAB", 
+                "latitude": -0.95, 
+                "longitude": 122.8, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 380, 
+                "name": "Kab. Luwu Timur", 
+                "type": "KAB", 
+                "latitude": -2.5825518, 
+                "longitude": 121.1710389, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 381, 
+                "name": "Kab. Luwu Utara", 
+                "type": "KAB", 
+                "latitude": -2.2690446, 
+                "longitude": 119.9740534, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 382, 
+                "name": "Kab. Maros", 
+                "type": "KAB", 
+                "latitude": -5.0, 
+                "longitude": 119.583333333333, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 383, 
+                "name": "Kab. Pangkajene dan Kepulauan", 
+                "type": "KAB", 
+                "latitude": -4.805035, 
+                "longitude": 119.5571677, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 384, 
+                "name": "Kab. Pinrang", 
+                "type": "KAB", 
+                "latitude": -3.76666666666667, 
+                "longitude": 119.683333333333, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 385, 
+                "name": "Kab. Sidenreng Rappang", 
+                "type": "KAB", 
+                "latitude": -3.7738981, 
+                "longitude": 120.0202964, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 386, 
+                "name": "Kab. Sinjai", 
+                "type": "KAB", 
+                "latitude": -5.1, 
+                "longitude": 120.233333333333, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 387, 
+                "name": "Kab. Soppeng", 
+                "type": "KAB", 
+                "latitude": -4.35, 
+                "longitude": 119.883333333333, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 388, 
+                "name": "Kab. Takalar", 
+                "type": "KAB", 
+                "latitude": -5.41666666666667, 
+                "longitude": 119.433333333333, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 389, 
+                "name": "Kab. Tana Toraja", 
+                "type": "KAB", 
+                "latitude": -3.0753003, 
+                "longitude": 119.742604, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 390, 
+                "name": "Kab. Toraja Utara", 
+                "type": "KAB", 
+                "latitude": -2.8621942, 
+                "longitude": 119.8352303, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 391, 
+                "name": "Kab. Wajo", 
+                "type": "KAB", 
+                "latitude": -4.022229, 
+                "longitude": 120.0665236, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 392, 
+                "name": "Kota Makassar", 
+                "type": "KOTA", 
+                "latitude": -5.15, 
+                "longitude": 119.466666666667, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 393, 
+                "name": "Kota Palopo", 
+                "type": "KOTA", 
+                "latitude": -3.0, 
+                "longitude": 120.166666666667, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 394, 
+                "name": "Kota Parepare", 
+                "type": "KOTA", 
+                "latitude": -3.98333333333333, 
+                "longitude": 119.666666666667, 
+                "timezone": "Asia/Makassar"
+            }
+        ]
+    }, 
+    {
+        "id": 28, 
+        "shortname": "SLT", 
+        "name": "Sulawesi Tengah", 
+        "districts": [
+            {
+                "id": 407, 
+                "name": "Kab. Banggai", 
+                "type": "KAB", 
+                "latitude": -1.6408137, 
+                "longitude": 123.5504076, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 408, 
+                "name": "Kab. Banggai Kepulauan", 
+                "type": "KAB", 
+                "latitude": -1.4319657, 
+                "longitude": 123.3934943, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 409, 
+                "name": "Kab. Buol", 
+                "type": "KAB", 
+                "latitude": 0.9695452, 
+                "longitude": 121.3541631, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 410, 
+                "name": "Kab. Donggala", 
+                "type": "KAB", 
+                "latitude": -0.316666666666667, 
+                "longitude": 119.9, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 411, 
+                "name": "Kab. Morowali", 
+                "type": "KAB", 
+                "latitude": -2.3003072, 
+                "longitude": 121.5370003, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 412, 
+                "name": "Kab. Parigi Moutong", 
+                "type": "KAB", 
+                "latitude": 0.5817607, 
+                "longitude": 120.8039474, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 413, 
+                "name": "Kab. Poso", 
+                "type": "KAB", 
+                "latitude": -1.4, 
+                "longitude": 120.766666666667, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 416, 
+                "name": "Kab. Sigi", 
+                "type": "KAB", 
+                "latitude": -1.3834127, 
+                "longitude": 120.0665236, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 414, 
+                "name": "Kab. Tojo Una-Una", 
+                "type": "KAB", 
+                "latitude": -1.098757, 
+                "longitude": 121.5370003, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 415, 
+                "name": "Kab. Toli-Toli", 
+                "type": "KAB", 
+                "latitude": 0.8768231, 
+                "longitude": 120.7579834, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 417, 
+                "name": "Kota Palu", 
+                "type": "KOTA", 
+                "latitude": -0.9, 
+                "longitude": 119.866666666667, 
+                "timezone": "Asia/Makassar"
+            }
+        ]
+    }, 
+    {
+        "id": 29, 
+        "shortname": "SLR", 
+        "name": "Sulawesi Tenggara", 
+        "districts": [
+            {
+                "id": 395, 
+                "name": "Kab. Bombana", 
+                "type": "KAB", 
+                "latitude": -4.6543462, 
+                "longitude": 121.9017954, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 396, 
+                "name": "Kab. Buton", 
+                "type": "KAB", 
+                "latitude": -5.3096355, 
+                "longitude": 122.9888319, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 397, 
+                "name": "Kab. Buton Utara", 
+                "type": "KAB", 
+                "latitude": -4.7023424, 
+                "longitude": 123.0338767, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 398, 
+                "name": "Kab. Kolaka", 
+                "type": "KAB", 
+                "latitude": -4.03333333333333, 
+                "longitude": 121.583333333333, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 399, 
+                "name": "Kab. Kolaka Utara", 
+                "type": "KAB", 
+                "latitude": -3.1347227, 
+                "longitude": 121.1710389, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 400, 
+                "name": "Kab. Konawe", 
+                "type": "KAB", 
+                "latitude": -3.9380432, 
+                "longitude": 122.0837445, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 401, 
+                "name": "Kab. Konawe Selatan", 
+                "type": "KAB", 
+                "latitude": -4.2027915, 
+                "longitude": 122.4467238, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 402, 
+                "name": "Kab. Konawe Utara", 
+                "type": "KAB", 
+                "latitude": -3.3803291, 
+                "longitude": 122.0837445, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 403, 
+                "name": "Kab. Muna", 
+                "type": "KAB", 
+                "latitude": -4.901629, 
+                "longitude": 122.6277455, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 404, 
+                "name": "Kab. Wakatobi", 
+                "type": "KAB", 
+                "latitude": -5.3264442, 
+                "longitude": 123.5951925, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 405, 
+                "name": "Kota Bau-Bau", 
+                "type": "KOTA", 
+                "latitude": -5.46667, 
+                "longitude": 122.633, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 406, 
+                "name": "Kota Kendari", 
+                "type": "KOTA", 
+                "latitude": -3.95, 
+                "longitude": 122.566666666667, 
+                "timezone": "Asia/Makassar"
+            }
+        ]
+    }, 
+    {
+        "id": 30, 
+        "shortname": "SLU", 
+        "name": "Sulawesi Utara", 
+        "districts": [
+            {
+                "id": 418, 
+                "name": "Kab. Bolaang Mongondow", 
+                "type": "KAB", 
+                "latitude": 0.6870994, 
+                "longitude": 124.0641419, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 419, 
+                "name": "Kab. Bolaang Mongondow Selatan", 
+                "type": "KAB", 
+                "latitude": 0.4053215, 
+                "longitude": 123.8411288, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 420, 
+                "name": "Kab. Bolaang Mongondow Timur", 
+                "type": "KAB", 
+                "latitude": 0.7152651, 
+                "longitude": 124.4641848, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 421, 
+                "name": "Kab. Bolaang Mongondow Utara", 
+                "type": "KAB", 
+                "latitude": 0.9070359, 
+                "longitude": 123.2657311, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 422, 
+                "name": "Kab. Kepulauan Sangihe", 
+                "type": "KAB", 
+                "latitude": 3.6329172, 
+                "longitude": 125.5000999, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 423, 
+                "name": "Kab. Kepulauan Siau Tagulandang Biaro", 
+                "type": "KAB", 
+                "latitude": 2.0995244, 
+                "longitude": 125.3740526, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 424, 
+                "name": "Kab. Kepulauan Talaud", 
+                "type": "KAB", 
+                "latitude": 4.092, 
+                "longitude": 126.768, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 425, 
+                "name": "Kab. Minahasa", 
+                "type": "KAB", 
+                "latitude": 1.2168837, 
+                "longitude": 124.8182593, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 426, 
+                "name": "Kab. Minahasa Selatan", 
+                "type": "KAB", 
+                "latitude": 1.0946773, 
+                "longitude": 124.4641848, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 427, 
+                "name": "Kab. Minahasa Tenggara", 
+                "type": "KAB", 
+                "latitude": 1.0278551, 
+                "longitude": 124.7298765, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 428, 
+                "name": "Kab. Minahasa Utara", 
+                "type": "KAB", 
+                "latitude": 1.5327973, 
+                "longitude": 124.994751, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 429, 
+                "name": "Kota Bitung", 
+                "type": "KOTA", 
+                "latitude": 1.4553529, 
+                "longitude": 125.204697, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 430, 
+                "name": "Kota Kotamobagu", 
+                "type": "KOTA", 
+                "latitude": 0.7333333, 
+                "longitude": 124.3166667, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 431, 
+                "name": "Kota Manado", 
+                "type": "KOTA", 
+                "latitude": 1.4917014, 
+                "longitude": 124.842843, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
+                "id": 432, 
+                "name": "Kota Tomohon", 
+                "type": "KOTA", 
+                "latitude": 1.3234131, 
+                "longitude": 124.8384504, 
+                "timezone": "Asia/Makassar"
+            }
+        ]
+    }, 
+    {
+        "id": 31, 
+        "shortname": "SMB", 
+        "name": "Sumatera Barat", 
+        "districts": [
+            {
+                "id": 90, 
+                "name": "Kab. Agam", 
+                "type": "KAB", 
+                "latitude": -0.2209392, 
+                "longitude": 100.1703257, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 91, 
+                "name": "Kab. Dharmasraya", 
+                "type": "KAB", 
+                "latitude": -1.1120568, 
+                "longitude": 101.6157773, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 92, 
+                "name": "Kab. Kepulauan Mentawai", 
+                "type": "KAB", 
+                "latitude": -1.426001, 
+                "longitude": 98.9245343, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 93, 
+                "name": "Kab. Lima Puluh Kota", 
+                "type": "KAB", 
+                "latitude": 0.0734192, 
+                "longitude": 100.5296115, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 94, 
+                "name": "Kab. Padang Pariaman", 
+                "type": "KAB", 
+                "latitude": -0.5546757, 
+                "longitude": 100.2151578, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 95, 
+                "name": "Kab. Pasaman", 
+                "type": "KAB", 
+                "latitude": 0.1288752, 
+                "longitude": 99.7901781, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 96, 
+                "name": "Kab. Pasaman Barat", 
+                "type": "KAB", 
+                "latitude": 0.2213005, 
+                "longitude": 99.634135, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 97, 
+                "name": "Kab. Pesisir Selatan", 
+                "type": "KAB", 
+                "latitude": -1.7223147, 
+                "longitude": 100.8903099, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 98, 
+                "name": "Kab. Sijunjung", 
+                "type": "KAB", 
+                "latitude": -0.7, 
+                "longitude": 100.966666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 99, 
+                "name": "Kab. Solok", 
+                "type": "KAB", 
+                "latitude": -0.8, 
+                "longitude": 100.65, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 100, 
+                "name": "Kab. Solok Selatan", 
+                "type": "KAB", 
+                "latitude": -1.4157329, 
+                "longitude": 101.2523792, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 101, 
+                "name": "Kab. Tanah Datar", 
+                "type": "KAB", 
+                "latitude": -0.4797043, 
+                "longitude": 100.5746224, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 102, 
+                "name": "Kota Bukittinggi", 
+                "type": "KOTA", 
+                "latitude": -0.3055556, 
+                "longitude": 100.3691667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 103, 
+                "name": "Kota Padang", 
+                "type": "KOTA", 
+                "latitude": -0.95, 
+                "longitude": 100.3530556, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 104, 
+                "name": "Kota Padangpanjang", 
+                "type": "KOTA", 
+                "latitude": -0.470679, 
+                "longitude": 100.4059456, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 105, 
+                "name": "Kota Pariaman", 
+                "type": "KOTA", 
+                "latitude": -0.633333333333333, 
+                "longitude": 100.133333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 106, 
+                "name": "Kota Payakumbuh", 
+                "type": "KOTA", 
+                "latitude": -0.2, 
+                "longitude": 100.633333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 107, 
+                "name": "Kota Sawahlunto", 
+                "type": "KOTA", 
+                "latitude": -0.666666666666667, 
+                "longitude": 100.866666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 108, 
+                "name": "Kota Solok", 
+                "type": "KOTA", 
+                "latitude": -0.8, 
+                "longitude": 100.65, 
+                "timezone": "Asia/Jakarta"
+            }
+        ]
+    }, 
+    {
+        "id": 32, 
+        "shortname": "SMS", 
+        "name": "Sumatera Selatan", 
+        "districts": [
+            {
+                "id": 109, 
+                "name": "Kab. Banyuasin", 
+                "type": "KAB", 
+                "latitude": -0.589724, 
+                "longitude": 101.3431058, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 110, 
+                "name": "Kab. Empat Lawang", 
+                "type": "KAB", 
+                "latitude": -3.7286029, 
+                "longitude": 102.8975098, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 111, 
+                "name": "Kab. Lahat", 
+                "type": "KAB", 
+                "latitude": -3.81666666666667, 
+                "longitude": 103.516666666667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 112, 
+                "name": "Kab. Muara Enim", 
+                "type": "KAB", 
+                "latitude": -3.66666666666667, 
+                "longitude": 103.783333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 113, 
+                "name": "Kab. Musi Banyuasin", 
+                "type": "KAB", 
+                "latitude": -2.5442029, 
+                "longitude": 103.7289167, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 114, 
+                "name": "Kab. Musi Rawas", 
+                "type": "KAB", 
+                "latitude": -2.8625305, 
+                "longitude": 102.989615, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 115, 
+                "name": "Kab. Ogan Ilir", 
+                "type": "KAB", 
+                "latitude": -3.426544, 
+                "longitude": 104.6121475, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 116, 
+                "name": "Kab. Ogan Komering Ilir", 
+                "type": "KAB", 
+                "latitude": -3.4559744, 
+                "longitude": 105.2194808, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 117, 
+                "name": "Kab. Ogan Komering Ulu", 
+                "type": "KAB", 
+                "latitude": -4.0283486, 
+                "longitude": 104.0072348, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 118, 
+                "name": "Kab. Ogan Komering Ulu Selatan", 
+                "type": "KAB", 
+                "latitude": -4.6681951, 
+                "longitude": 104.0072348, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 119, 
+                "name": "Kab. Ogan Komering Ulu Timur", 
+                "type": "KAB", 
+                "latitude": -3.8567934, 
+                "longitude": 104.7520939, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 120, 
+                "name": "Kota Lubuklinggau", 
+                "type": "KOTA", 
+                "latitude": -3.2966667, 
+                "longitude": 102.8616667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 121, 
+                "name": "Kota Pagar Alam", 
+                "type": "KOTA", 
+                "latitude": -4.03767, 
+                "longitude": 103.265297, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 122, 
+                "name": "Kota Palembang", 
+                "type": "KOTA", 
+                "latitude": -2.98333333333333, 
+                "longitude": 104.75, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 123, 
+                "name": "Kota Prabumulih", 
+                "type": "KOTA", 
+                "latitude": -3.43333333333333, 
+                "longitude": 104.216666666667, 
+                "timezone": "Asia/Jakarta"
+            }
+        ]
+    }, 
+    {
+        "id": 33, 
+        "shortname": "SMU", 
+        "name": "Sumatera Utara", 
+        "districts": [
+            {
+                "id": 24, 
+                "name": "Kab. Asahan", 
+                "type": "KAB", 
+                "latitude": 2.8174722, 
+                "longitude": 99.634135, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 25, 
+                "name": "Kab. Batubara", 
+                "type": "KAB", 
+                "latitude": 3.1740979, 
+                "longitude": 99.5006143, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 26, 
+                "name": "Kab. Dairi", 
+                "type": "KAB", 
+                "latitude": 2.8675801, 
+                "longitude": 98.265058, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 27, 
+                "name": "Kab. Deli Serdang", 
+                "type": "KAB", 
+                "latitude": 3.4201802, 
+                "longitude": 98.704075, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 28, 
+                "name": "Kab. Humbang Hasundutan", 
+                "type": "KAB", 
+                "latitude": 2.1988508, 
+                "longitude": 98.5721016, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 29, 
+                "name": "Kab. Karo", 
+                "type": "KAB", 
+                "latitude": 3.1052909, 
+                "longitude": 98.265058, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 30, 
+                "name": "Kab. Labuhanbatu", 
+                "type": "KAB", 
+                "latitude": 2.3439863, 
+                "longitude": 100.1703257, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 31, 
+                "name": "Kab. Labuhanbatu Selatan", 
+                "type": "KAB", 
+                "latitude": 1.8799353, 
+                "longitude": 100.1703257, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 32, 
+                "name": "Kab. Labuhanbatu Utara", 
+                "type": "KAB", 
+                "latitude": 2.3465638, 
+                "longitude": 99.8124935, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 33, 
+                "name": "Kab. Langkat", 
+                "type": "KAB", 
+                "latitude": 3.8653916, 
+                "longitude": 98.3088441, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 34, 
+                "name": "Kab. Mandailing Natal", 
+                "type": "KAB", 
+                "latitude": 0.7432372, 
+                "longitude": 99.3673084, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 35, 
+                "name": "Kab. Nias", 
+                "type": "KAB", 
+                "latitude": 1.1255279, 
+                "longitude": 97.5247243, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 36, 
+                "name": "Kab. Nias Barat", 
+                "type": "KAB", 
+                "latitude": 1.0116383, 
+                "longitude": 97.4814163, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 37, 
+                "name": "Kab. Nias Selatan", 
+                "type": "KAB", 
+                "latitude": 0.7086091, 
+                "longitude": 97.8286368, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 38, 
+                "name": "Kab. Nias Utara", 
+                "type": "KAB", 
+                "latitude": 1.3166036, 
+                "longitude": 97.394882, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 39, 
+                "name": "Kab. Padang Lawas", 
+                "type": "KAB", 
+                "latitude": 1.1186977, 
+                "longitude": 99.8124935, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 40, 
+                "name": "Kab. Padang Lawas Utara", 
+                "type": "KAB", 
+                "latitude": 1.5758644, 
+                "longitude": 99.634135, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 41, 
+                "name": "Kab. Pakpak Bharat", 
+                "type": "KAB", 
+                "latitude": 2.545786, 
+                "longitude": 98.299838, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 42, 
+                "name": "Kab. Samosir", 
+                "type": "KAB", 
+                "latitude": 2.5833333, 
+                "longitude": 98.8166667, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 43, 
+                "name": "Kab. Serdang Bedagai", 
+                "type": "KAB", 
+                "latitude": 3.3371694, 
+                "longitude": 99.0571089, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 44, 
+                "name": "Kab. Simalungun", 
+                "type": "KAB", 
+                "latitude": 2.9781612, 
+                "longitude": 99.2785583, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 45, 
+                "name": "Kab. Tapanuli Selatan", 
+                "type": "KAB", 
+                "latitude": 1.5774933, 
+                "longitude": 99.2785583, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 46, 
+                "name": "Kab. Tapanuli Tengah", 
+                "type": "KAB", 
+                "latitude": 1.8493299, 
+                "longitude": 98.704075, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 47, 
+                "name": "Kab. Tapanuli Utara", 
+                "type": "KAB", 
+                "latitude": 2.0405246, 
+                "longitude": 99.1013498, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 48, 
+                "name": "Kab. Toba Samosir", 
+                "type": "KAB", 
+                "latitude": 2.3502398, 
+                "longitude": 99.2785583, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 49, 
+                "name": "Kota Binjai", 
+                "type": "KOTA", 
+                "latitude": 3.33333333333333, 
+                "longitude": 98.5, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 50, 
+                "name": "Kota Gunungsitoli", 
+                "type": "KOTA", 
+                "latitude": 1.281964, 
+                "longitude": 97.61594, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 51, 
+                "name": "Kota Medan", 
+                "type": "KOTA", 
+                "latitude": 3.5915405, 
+                "longitude": 98.6692998, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 52, 
+                "name": "Kota Padangsidempuan", 
+                "type": "KOTA", 
+                "latitude": 1.380424, 
+                "longitude": 99.273972, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 53, 
+                "name": "Kota Pematangsiantar", 
+                "type": "KOTA", 
+                "latitude": 2.93333333333333, 
+                "longitude": 99.05, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 54, 
+                "name": "Kota Sibolga", 
+                "type": "KOTA", 
+                "latitude": 1.75, 
+                "longitude": 98.7833333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 55, 
+                "name": "Kota Tanjungbalai", 
+                "type": "KOTA", 
+                "latitude": 2.965122, 
+                "longitude": 99.800331, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 56, 
+                "name": "Kota Tebing Tinggi", 
+                "type": "KOTA", 
+                "latitude": 3.33333333333333, 
+                "longitude": 99.1333333333333, 
+                "timezone": "Asia/Jakarta"
+            }
+        ]
+    }, 
+    {
+        "id": 4, 
+        "shortname": "DIY", 
+        "name": "Yogyakarta", 
+        "districts": [
+            {
+                "id": 265, 
+                "name": "Kab. Bantul", 
+                "type": "KAB", 
+                "latitude": -7.55, 
+                "longitude": 110.183333333333, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 266, 
+                "name": "Kab. Gunung Kidul", 
+                "type": "KAB", 
+                "latitude": -8.0305091, 
+                "longitude": 110.6168921, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 267, 
+                "name": "Kab. Kulon Progo", 
+                "type": "KAB", 
+                "latitude": -7.8266798, 
+                "longitude": 110.1640846, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 268, 
+                "name": "Kab. Sleman", 
+                "type": "KAB", 
+                "latitude": -7.71666666666667, 
+                "longitude": 110.35, 
+                "timezone": "Asia/Jakarta"
+            }, 
+            {
+                "id": 269, 
+                "name": "Kota Yogyakarta", 
+                "type": "KOTA", 
+                "latitude": -7.8, 
+                "longitude": 110.4, 
+                "timezone": "Asia/Jakarta"
+            }
+        ]
+    }
+]
