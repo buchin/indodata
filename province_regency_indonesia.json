@@ -466,7 +466,7 @@
             }, 
             {
                 "id": 369, 
-                "name": "Kab. Pohuwato", 
+                "name": "Kab. Pahuwato", 
                 "type": "KAB", 
                 "latitude": 0.7055278, 
                 "longitude": 121.7195459, 
@@ -1619,7 +1619,7 @@
             }, 
             {
                 "id": 330, 
-                "name": "Kab. Kota Baru", 
+                "name": "Kab. Kotabaru", 
                 "type": "KAB", 
                 "latitude": -3.0029841, 
                 "longitude": 115.9467997, 
@@ -1786,7 +1786,7 @@
             }, 
             {
                 "id": 350, 
-                "name": "Kota Palangka Raya", 
+                "name": "Kota Palangkaraya", 
                 "type": "KOTA", 
                 "latitude": -2.21, 
                 "longitude": 113.92, 
@@ -1968,7 +1968,7 @@
             }, 
             {
                 "id": 144, 
-                "name": "Kota Pangkal Pinang", 
+                "name": "Kota Pangkalpinang", 
                 "type": "KOTA", 
                 "latitude": -2.129323, 
                 "longitude": 106.109596, 
@@ -2031,7 +2031,7 @@
             }, 
             {
                 "id": 151, 
-                "name": "Kota Tanjung Pinang", 
+                "name": "Kota Tanjungpinang", 
                 "type": "KOTA", 
                 "latitude": 0.916666666666667, 
                 "longitude": 104.45, 
@@ -2320,6 +2320,14 @@
                 "type": "KOTA", 
                 "latitude": 0.783333333333333, 
                 "longitude": 127.316666666667, 
+                "timezone": "Asia/Jayapura"
+            }, 
+            {
+                "id": 497, 
+                "name": "Kota Tidore Kepulauan", 
+                "type": "KOTA", 
+                "latitude": 0.506021, 
+                "longitude": 127.681, 
                 "timezone": "Asia/Jayapura"
             }
         ]
@@ -3261,7 +3269,7 @@
             }, 
             {
                 "id": 394, 
-                "name": "Kota Parepare", 
+                "name": "Kota Pare Pare", 
                 "type": "KOTA", 
                 "latitude": -3.98333333333333, 
                 "longitude": 119.666666666667, 
@@ -3348,7 +3356,7 @@
             }, 
             {
                 "id": 415, 
-                "name": "Kab. Toli-Toli", 
+                "name": "Kab. Tolitoli", 
                 "type": "KAB", 
                 "latitude": 0.8768231, 
                 "longitude": 120.7579834, 
@@ -3451,7 +3459,7 @@
             }, 
             {
                 "id": 405, 
-                "name": "Kota Bau-Bau", 
+                "name": "Kota Bau Bau", 
                 "type": "KOTA", 
                 "latitude": -5.46667, 
                 "longitude": 122.633, 
@@ -3505,19 +3513,19 @@
                 "timezone": "Asia/Makassar"
             }, 
             {
+                "id": 423, 
+                "name": "Kab. Kep. Siau Tagulandang Biaro", 
+                "type": "KAB", 
+                "latitude": 2.0995244, 
+                "longitude": 125.3740526, 
+                "timezone": "Asia/Makassar"
+            }, 
+            {
                 "id": 422, 
                 "name": "Kab. Kepulauan Sangihe", 
                 "type": "KAB", 
                 "latitude": 3.6329172, 
                 "longitude": 125.5000999, 
-                "timezone": "Asia/Makassar"
-            }, 
-            {
-                "id": 423, 
-                "name": "Kab. Kepulauan Siau Tagulandang Biaro", 
-                "type": "KAB", 
-                "latitude": 2.0995244, 
-                "longitude": 125.3740526, 
                 "timezone": "Asia/Makassar"
             }, 
             {
@@ -3713,7 +3721,7 @@
             }, 
             {
                 "id": 104, 
-                "name": "Kota Padangpanjang", 
+                "name": "Kota Padang Panjang", 
                 "type": "KOTA", 
                 "latitude": -0.470679, 
                 "longitude": 100.4059456, 
@@ -3895,7 +3903,7 @@
             }, 
             {
                 "id": 25, 
-                "name": "Kab. Batubara", 
+                "name": "Kab. Batu Bara", 
                 "type": "KAB", 
                 "latitude": 3.1740979, 
                 "longitude": 99.5006143, 
@@ -4023,7 +4031,7 @@
             }, 
             {
                 "id": 41, 
-                "name": "Kab. Pakpak Barat", 
+                "name": "Kab. Pakpak Bharat", 
                 "type": "KAB", 
                 "latitude": 2.545786, 
                 "longitude": 98.299838, 
@@ -4111,7 +4119,7 @@
             }, 
             {
                 "id": 52, 
-                "name": "Kota Padangsidempuan", 
+                "name": "Kota Padang Sidempuan", 
                 "type": "KOTA", 
                 "latitude": 1.380424, 
                 "longitude": 99.273972, 
@@ -4135,7 +4143,7 @@
             }, 
             {
                 "id": 55, 
-                "name": "Kota Tanjungbalai", 
+                "name": "Kota Tanjung Balai", 
                 "type": "KOTA", 
                 "latitude": 2.965122, 
                 "longitude": 99.800331, 
@@ -4166,7 +4174,7 @@
             }, 
             {
                 "id": 266, 
-                "name": "Kab. Gunung Kidul", 
+                "name": "Kab. Gunungkidul", 
                 "type": "KAB", 
                 "latitude": -8.0305091, 
                 "longitude": 110.6168921, 
