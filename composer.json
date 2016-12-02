@@ -1,6 +1,6 @@
 {
     "name": "buchin/indodata",
-    "description": "Port of tatataufik/indodata, add composer support",
+    "description": "Data Provinsi-Kota-Kecamatan-Kabupaten se Indonesia memakai PHP",
     "type": "library",
     "license": "Halal",
     "authors": [
