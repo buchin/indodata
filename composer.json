@@ -1,0 +1,24 @@
+{
+    "name": "buchin/indodata",
+    "description": "Port of tatataufik/indodata, add composer support",
+    "type": "library",
+    "license": "Halal",
+    "authors": [
+        {
+            "name": "Mochammad Masbuchin",
+            "email": "buchin@dropsugar.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "illuminate/database": "^5.3"
+    },
+    "require-dev": {
+        "kahlan/kahlan": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Buchin\\Indodata\\": "src"
+        }
+    }
+}
