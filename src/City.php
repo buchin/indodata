@@ -1,10 +1,13 @@
 <?php namespace Buchin\Indodata;
 use Illuminate\Database\Eloquent\Model;
+use Buchin\Adzan\Adzan;
 /**
 * Province
 */
 class City extends Model
 {
+	use IndodataTrait;
+	
 	protected $table = 'regency';
 
 	public function districts()
@@ -16,4 +19,5 @@ class City extends Model
 	{
 		return $this->belongsTo('Buchin\Indodata\Province');
 	}
+
 }

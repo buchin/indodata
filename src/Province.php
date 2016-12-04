@@ -6,6 +6,7 @@ use Illuminate\Database\Eloquent\Model;
 */
 class Province extends Model
 {
+	use IndodataTrait;
 	protected $table = 'province';
 
 	public function cities()

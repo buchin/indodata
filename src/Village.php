@@ -6,6 +6,8 @@ use Illuminate\Database\Eloquent\Model;
 */
 class Village extends Model
 {
+	use IndodataTrait;
+	
 	protected $table = 'suburban';
 
 	public function district()
